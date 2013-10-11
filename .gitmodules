@@ -1,0 +1,3 @@
+[submodule "Cottle"]
+	path = Cottle
+	url = https://github.com/r3c/Cottle.git
